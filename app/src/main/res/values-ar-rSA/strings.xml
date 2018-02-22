@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حَــــدَث</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_dashboard">لوحة</string>
+    <string name="title_notifications">التنبيهات</string>
+</resources>
